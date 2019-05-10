@@ -9,3 +9,4 @@
 * Permissions
 * Exercises
 * Automated testing
+* Manage pull request templae
